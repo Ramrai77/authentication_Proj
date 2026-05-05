@@ -20,5 +20,3 @@
 3. Run app.py
 
 ## Author
-
-Your Name
