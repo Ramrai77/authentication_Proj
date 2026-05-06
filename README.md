@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authentication System (Flask + MySQL)
 
 ## Features
@@ -20,3 +21,7 @@
 3. Run app.py
 
 ## Author
+=======
+# Authentication_Proj
+Python ,RestAPI,Mysql,Html,Css
+>>>>>>> 7252a024b2a17f22ac5bf17455219c7d57d6abac
